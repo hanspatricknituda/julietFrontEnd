@@ -1,0 +1,76 @@
+#msg {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+#title {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+#msg {
+  position: absolute;
+  width: 400px;
+  height: 83px;
+  left: 510px;
+  top: 350px;
+}
+
+#title {
+  position: absolute;
+  width: 200px;
+  height: 28px;
+  left: 610px;
+  top: 279px;
+}
+
+form {
+  position: absolute;
+  width: 500px;
+  height: 575px;
+  left: 470px;
+  top: 500px;
+}
+
+form .row {
+  padding: 10px;
+
+}
+
+input {
+  border: 1px solid #6E815D;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+::placeholder {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 21px;
+  color: black;
+}
+
+#submit {
+  position: absolute;
+  width: 245px;
+  height: 50px;
+  left: 140px;
+  top: 280px;
+  background: #6E815D;
+  border-radius: 10px;
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: white;
+}
